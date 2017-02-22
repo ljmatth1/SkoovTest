@@ -5,7 +5,7 @@ package asuser421.edu.skoovy;
  */
 public class Constants {
 
-    public static final String NEXMO_ID = "894dd8c2-c5cd-470b-b86b-78de364e8125" ;
-    public static final String SHARED_SECRET = "8f822e98febdd2e" ;
+    public static final String NEXMO_ID = "1c9b5586" ;
+    public static final String SHARED_SECRET = "85dfafe8ae479665" ;
 
 }
